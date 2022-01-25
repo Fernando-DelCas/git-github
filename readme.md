@@ -3,5 +3,5 @@ My first repository
 
 
 ## This is my work
-using Github
-practice with Github
+Using Github
+Practice with Github
