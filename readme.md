@@ -1,2 +1,7 @@
 # Test 1
-my first repository
+My first repository
+
+
+## This is my work
+using Github
+practice with Github
